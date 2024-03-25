@@ -1,6 +1,6 @@
 # learnstream
 
-A new Flutter project.
+Created an application to learn Socket IO with Node, Mongo, Flutter, Express frameworks
 
 ## Getting Started
 
